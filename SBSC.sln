@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSC", "SBSC\SBSC.csproj", "{0202DB4E-09C6-495C-92C3-B9209BD751F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question2", "Question2\Question2.csproj", "{4DE3717B-759D-4BD5-8AA1-F2ADD303F73F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question3", "Question3\Question3.csproj", "{60D4CBF6-2AB3-4A01-A2F0-5C16B92EA541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0202DB4E-09C6-495C-92C3-B9209BD751F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0202DB4E-09C6-495C-92C3-B9209BD751F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0202DB4E-09C6-495C-92C3-B9209BD751F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0202DB4E-09C6-495C-92C3-B9209BD751F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE3717B-759D-4BD5-8AA1-F2ADD303F73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE3717B-759D-4BD5-8AA1-F2ADD303F73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE3717B-759D-4BD5-8AA1-F2ADD303F73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE3717B-759D-4BD5-8AA1-F2ADD303F73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D4CBF6-2AB3-4A01-A2F0-5C16B92EA541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D4CBF6-2AB3-4A01-A2F0-5C16B92EA541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D4CBF6-2AB3-4A01-A2F0-5C16B92EA541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D4CBF6-2AB3-4A01-A2F0-5C16B92EA541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EFDF547-50C8-41BF-B44F-14C3292B1280}
+	EndGlobalSection
+EndGlobal
