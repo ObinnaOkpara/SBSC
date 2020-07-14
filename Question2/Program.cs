@@ -37,7 +37,7 @@ namespace Question2
 
                 listOfInt = FillMissingNumbers(listOfInt);
 
-                if (listOfInt.Count < k)
+                if (listOfInt.Count < k || k<1)
                 {
                     Console.WriteLine("-1");
                 }
